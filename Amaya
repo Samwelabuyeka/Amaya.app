@@ -1,0 +1,6 @@
+cd path/to/Amaya_Launch_Complete/web
+git init
+git remote add origin https://github.com/samwelabuyeka/amaya.git
+git add .
+git commit -m "Initial commit – Amaya web frontend"
+git push -u origin main
